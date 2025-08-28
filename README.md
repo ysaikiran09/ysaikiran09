@@ -15,14 +15,6 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ysaikiran09&theme=onedark&column=7&margin-w=10&margin-h=15" alt="ysaikiran09 trophies" />
-</p>
-
----
-
 ### 👨‍💻 About Me  
 
 - 🔭 Currently working on **React, JavaScript, TypeScript**  
