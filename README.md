@@ -1,9 +1,9 @@
-<!-- Banner -->
+a<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sai%20Kiran%20Y&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Sai Kiran Y Banner" />
 </p>
 
-<h2 align="center">Hi 👋, I'm Sai Kiran Y</h2>
+<h2 align="center">Hi 👋, I'm Sai Kiran Yerramsetty</h2>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Building Scalable & Interactive Web Apps</h3>
 
 ---
