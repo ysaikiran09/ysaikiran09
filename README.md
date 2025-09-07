@@ -1,6 +1,6 @@
 a<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6a11cb&height=220&section=header&text=Sai%20Kiran%20Yerramsetty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Sai Kiran Y Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6a11cb&height=220&section=header&text=Sai%20Kiran%20Y&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Sai Kiran Y Banner" />
 </p>
 
 
